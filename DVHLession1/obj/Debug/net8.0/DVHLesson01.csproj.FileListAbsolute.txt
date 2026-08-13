@@ -1,0 +1,14 @@
+C:\Users\My Laptop\Documents\BTVN\DVHLession1\DVHLession1\obj\Debug\net8.0\DVHLesson01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Documents\BTVN\DVHLession1\DVHLession1\obj\Debug\net8.0\DVHLesson01.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Documents\BTVN\DVHLession1\DVHLession1\obj\Debug\net8.0\DVHLesson01.AssemblyInfo.cs
+C:\Users\My Laptop\Documents\BTVN\DVHLession1\DVHLession1\obj\Debug\net8.0\DVHLesson01.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Documents\BTVN\DVHLession1\DVHLession1\bin\Debug\net8.0\DVHLesson01.exe
+C:\Users\My Laptop\Documents\BTVN\DVHLession1\DVHLession1\bin\Debug\net8.0\DVHLesson01.deps.json
+C:\Users\My Laptop\Documents\BTVN\DVHLession1\DVHLession1\bin\Debug\net8.0\DVHLesson01.runtimeconfig.json
+C:\Users\My Laptop\Documents\BTVN\DVHLession1\DVHLession1\bin\Debug\net8.0\DVHLesson01.dll
+C:\Users\My Laptop\Documents\BTVN\DVHLession1\DVHLession1\bin\Debug\net8.0\DVHLesson01.pdb
+C:\Users\My Laptop\Documents\BTVN\DVHLession1\DVHLession1\obj\Debug\net8.0\DVHLesson01.dll
+C:\Users\My Laptop\Documents\BTVN\DVHLession1\DVHLession1\obj\Debug\net8.0\refint\DVHLesson01.dll
+C:\Users\My Laptop\Documents\BTVN\DVHLession1\DVHLession1\obj\Debug\net8.0\DVHLesson01.pdb
+C:\Users\My Laptop\Documents\BTVN\DVHLession1\DVHLession1\obj\Debug\net8.0\DVHLesson01.genruntimeconfig.cache
+C:\Users\My Laptop\Documents\BTVN\DVHLession1\DVHLession1\obj\Debug\net8.0\ref\DVHLesson01.dll
